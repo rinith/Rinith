@@ -1,0 +1,7 @@
+package com.example.rinith.viewmodel;
+
+import androidx.lifecycle.ViewModel;
+
+public class HomeViewModel extends ViewModel {
+    // TODO: Implement the ViewModel
+}
